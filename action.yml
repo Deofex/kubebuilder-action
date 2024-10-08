@@ -19,5 +19,5 @@ inputs:
     description: 'Use sudo in the workflow'
     default: true
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'index.js'
